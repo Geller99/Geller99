@@ -1,4 +1,4 @@
-### Hi there 👋, Chaos isn't a pit, chaos is a ladder of nested callbacks - Lord Baelish
+Chaos isn't a pit, chaos is a ladder of nested callbacks - Lord Baelish
 #### *The world's first werewolf-vampire Hybrid* 
 
 
