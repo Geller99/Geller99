@@ -2,16 +2,15 @@ Chaos isn't a pit, chaos is a ladder of nested callbacks - Lord Baelish
 
 #### *The world's first werewolf-vampire Hybrid* 
 
-Famous Stupidly True Quotes
-Reputation is greater than money...
-Movies are just pictures your eyes can communicate with...
 
+Famous Stupidly True Quotes
+- Reputation is greater than money...
+- Movies are just pictures your eyes can communicate with...
 
 **Future-centric ideas are often carved on things meant to last...**
 
-Interests && Expertise 
 
-React | Redux | Tailwind | Next | Typescript | SASS | Firebase | Algorithms | C++ | Unreal Engine | CSS3
+Skills: React | Redux | Tailwind | Next | Typescript | SASS | Firebase | Algorithms
 
 - 🔭 I’m currently working on TruthSeeker >> A website for global reviews based on Next + Typescript 
 - 🌱 I’m currently learning Stephan Grider's TS + React Course 
