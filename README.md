@@ -3,6 +3,7 @@ Chaos isn't a pit, chaos is a ladder of nested callbacks - Lord Baelish
 #### *The world's first werewolf-vampire Hybrid* 
 
 
+
 Famous Stupidly True Quotes
 - Reputation is greater than money...
 - Movies are just pictures your eyes can communicate with...
@@ -24,3 +25,6 @@ Skills: React | Redux | Tailwind | Next | Typescript | SASS | Firebase | Algorit
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Geller99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Elixir_js)  
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+![Profile views](https://gpvc.arturio.dev/Geller99)  
