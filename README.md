@@ -1,4 +1,4 @@
-<h3 align="center">Future-centric ideas are often carved on things meant to last...</h3>
+<h3 align="center">Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geller99&label=Profile%20views&color=0e75b6&style=flat" alt="geller99" /> </p>
 
