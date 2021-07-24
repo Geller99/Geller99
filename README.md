@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [www.linkedin.com/in/gellermicael](www.linkedin.com/in/gellermicael)
 
-- 💬 Ask me about **My sex life....oh wait**
+- 💬 Ask me about **My Best Recipes**
 
 - 📫 How to reach me **Gellera800@gmail.com**
 
