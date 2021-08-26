@@ -12,13 +12,13 @@
 
 - 🤝 I’m looking for help with **Finding my first fulltime frontend Role**
 
-- 📝 I regularly write articles on [www.linkedin.com/in/gellermicael](www.linkedin.com/in/gellermicael)
+- 📝 I regularly write articles on https://www.linkedin.com/in/gellermicael/
 
 - 💬 Ask me about **My Best Recipes**
 
 - 📫 How to reach me **Gellera800@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/gellermicael](www.linkedin.com/in/gellermicael)
+- 📄 Know about my experiences https://www.linkedin.com/in/gellermicael/
 
 - ⚡ Fun fact **⚡ Fun fact: I'm a 2300 rated chess player && Gospel Belter**
 
