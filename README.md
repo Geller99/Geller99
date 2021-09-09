@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/elixir_js" target="blank"><img src="https://img.shields.io/twitter/follow/elixir_js?logo=twitter&style=for-the-badge" alt="elixir_js" /></a> </p>
 
-- 🔭 I’m currently working on **TruthSeeker >> A website for global reviews based on Next + Typescript**
+- 🔭 I’m currently working on **Fighting Typescript**
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **on Building an SAAS: tick**
 
-- 🤝 I’m looking for help with **Finding my first fulltime frontend Role**
+- 🤝 I’m looking for help with **Finding Mentors for our YouGo Platform**
 
 - 📝 I regularly write articles on https://www.linkedin.com/in/gellermicael/
 
