@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **TruthSeeker >> A website for global reviews based on Next + Typescript**
 
-- 🌱 I’m currently learning **Stephan Grider's TS + React Course**
+- 🌱 I’m currently learning **Data structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **on Building an SAAS: tick**
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on https://www.linkedin.com/in/gellermicael/
 
-- 💬 Ask me about **My Best Recipes**
+- 💬 Ask me about **Functional Programming**
 
 - 📫 How to reach me **Gellera800@gmail.com**
 
