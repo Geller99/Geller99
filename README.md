@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/elixir_js" target="blank"><img src="https://img.shields.io/twitter/follow/elixir_js?logo=twitter&style=for-the-badge" alt="elixir_js" /></a> </p>
 
-- 🔭 I’m currently working on **Fighting Typescript**
+- 🔭 I’m currently building an Open-Source UI component Library in React https://github.com/YouGoDevs/Sexy-UI
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **on Building an SAAS: tick**
 
-- 🤝 I’m looking for help with **Finding Mentors for our YouGo Platform**
+- 🤝 I’m looking for help with **Finding Mentors for our YouGo Devs** Platform https://github.com/YouGoDevs
 
-- 📝 I regularly write articles on https://www.linkedin.com/in/gellermicael/
+- 📝 I regularly write articles on https://vampiredev.hashnode.dev/
 
 - 💬 Ask me about **Functional Programming**
 
