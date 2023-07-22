@@ -4,23 +4,17 @@
 
 <p align="left"> <a href="https://twitter.com/elixir_js" target="blank"><img src="https://img.shields.io/twitter/follow/elixir_js?logo=twitter&style=for-the-badge" alt="elixir_js" /></a> </p>
 
-- 🔭 I’m currently building an Open-Source UI component Library in React https://github.com/YouGoDevs/Sexy-UI
+- 🔭 Currently building Open-Source UI component Lib -> https://github.com/YouGoDevs/Sexy-UI
 
-- 🌱 I’m currently learning **Data structures and Algorithms**
+- 🤝 Building Community @ https://github.com/YouGoDevs
 
-- 👯 I’m looking to collaborate on **on Building an SAAS: tick**
+- 📝 DevRel Content -> https://vampiredev.hashnode.dev/
 
-- 🤝 I’m looking for help with **Finding Mentors for our YouGo Devs** Platform https://github.com/YouGoDevs
+- 📫 Reach me -> Geller@reveal.vision
 
-- 📝 I regularly write articles on https://vampiredev.hashnode.dev/
+- 📄 Professional Profile -> https://www.linkedin.com/in/gellermicael/
 
-- 💬 Ask me about **Functional Programming**
-
-- 📫 How to reach me **Gellera800@gmail.com**
-
-- 📄 Know about my experiences https://www.linkedin.com/in/gellermicael/
-
-- ⚡ Fun fact **⚡ Fun fact: I'm a 2300 rated chess player && Gospel Belter**
+- 2300 rated chess player
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
