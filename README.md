@@ -14,7 +14,7 @@
 
 - 📄 Professional Profile -> https://www.linkedin.com/in/gellermicael/
 
-- Connect with my on Twitter -> https://twitter.com/Elixir_js
+- Connect with me on Twitter -> https://twitter.com/Elixir_js
 
 - 2300 rated chess player
 
