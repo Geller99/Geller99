@@ -8,7 +8,7 @@
 
 - 🤝 Building Community @ https://github.com/YouGoDevs
 
-- 📝 DevRel Content -> https://vampiredev.hashnode.dev/
+- 📝 DevRel Content -> https://devscribbles.hashnode.dev/
 
 - 📫 Reach me -> Geller@reveal.vision
 
