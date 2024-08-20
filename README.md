@@ -8,7 +8,7 @@
 
 - 📝 DevRel Content -> https://devscribs.hashnode.dev/
 
-- 📫 Reach me -> Geller@reveal.vision
+- 📫 Reach me -> Gellera800@gmail.com
 
 - 📄 Professional Profile -> https://www.linkedin.com/in/gellermicael/
 
